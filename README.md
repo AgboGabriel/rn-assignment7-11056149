@@ -4,15 +4,15 @@
 
 ## Homescreen
 
-![Home](app7Home.jpg)
+![Home](./Mobile%20app%20ass6/rn-assignment6-11056149/ThisApp/app7Home.jpg)
 
 
 ## CartScreen
-![alt text](cartScreen.jpg)
+![cartScreen](./Mobile%20app%20ass6/rn-assignment6-11056149/ThisApp/cartScreen.jpg)
 
 
 ## DrawerMenu
-![alt text](Drawer.jpg)
+![DrawerMenu](./Mobile%20app%20ass6/rn-assignment6-11056149/ThisApp/Drawer.jpg)
 
 ## ProductDetails
-![alt text](ProductDetails.jpg)
+![Product Details](./Mobile%20app%20ass6/rn-assignment6-11056149/ThisApp/ProductDetails.jpg)
